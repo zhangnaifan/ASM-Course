@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/11/8 22:21:42。
+     1>项目“D:\myProject\ASM_EXP2\ASM_EXP2\ASM_EXP2.vcxproj”在节点 2 上(Build 个目标)。
+     1>_MASM:
+         Assembling buffer1.asm...
+         cmd.exe /C "C:\Users\zhang.nf\AppData\Local\Temp\tmpef1ad2803f4148bc95073f772a543287.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\buffer1.obj" /W3 /errorReport:prompt  /Tabuffer1.asm
+       _MASM:
+         Assembling bufferm.asm...
+         cmd.exe /C "C:\Users\zhang.nf\AppData\Local\Temp\tmpe192f61866e541e4badbae04776ff5a3.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\bufferm.obj" /W3 /errorReport:prompt  /Tabufferm.asm
+       _MASM:
+         Assembling C:\Users\zhang.nf\Desktop\1143310119张乃凡asm实验2\ASM.asm...
+         cmd.exe /C "C:\Users\zhang.nf\AppData\Local\Temp\tmp7aa5ecc7327b46f89e04d80694754e88.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\ASM.obj" /W3 /errorReport:prompt  /Ta"C:\Users\zhang.nf\Desktop\1143310119张乃凡asm实验2\ASM.asm"
+     1>MASM : fatal error A1000: cannot open file : C:\Users\zhang.nf\Desktop\1143310119
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\masm.targets(50,5): error MSB3721: 命令“ml.exe /c /nologo /Zi /Fo"Debug\ASM.obj" /W3 /errorReport:prompt  /Ta"C:\Users\zhang.nf\Desktop\1143310119张乃凡asm实验2\ASM.asm"”已退出，返回代码为 1。
+     1>已完成生成项目“D:\myProject\ASM_EXP2\ASM_EXP2\ASM_EXP2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:06.00

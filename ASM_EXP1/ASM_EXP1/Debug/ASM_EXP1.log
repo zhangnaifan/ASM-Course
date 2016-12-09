@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/10/31 22:51:31。
+     1>项目“D:\myProject\ASM_EXP1\ASM_EXP1\ASM_EXP1.vcxproj”在节点 2 上(Build 个目标)。
+     1>_MASM:
+         Assembling sort4.asm...
+         cmd.exe /C "C:\Users\zhang.nf\AppData\Local\Temp\tmp91e68e2178444e44b077168a0d8227e4.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\sort4.obj" /W3 /errorReport:prompt  /Tasort4.asm
+       Link:
+         D:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\myProject\ASM_EXP1\Debug\ASM_EXP1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\myProject\ASM_EXP1\Debug\ASM_EXP1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\myProject\ASM_EXP1\Debug\ASM_EXP1.lib" /MACHINE:X86 Debug\sort4.obj
+         ASM_EXP1.vcxproj -> D:\myProject\ASM_EXP1\Debug\ASM_EXP1.exe
+     1>已完成生成项目“D:\myProject\ASM_EXP1\ASM_EXP1\ASM_EXP1.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.32
